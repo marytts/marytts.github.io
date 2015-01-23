@@ -1,0 +1,12 @@
+com.twmacinta.io
+com.twmacinta.util
+marytts
+marytts.exceptions
+marytts.fst
+marytts.modules.phonemiser
+marytts.util
+marytts.util.data
+marytts.util.dom
+marytts.util.http
+marytts.util.io
+marytts.util.string

@@ -1,0 +1,11 @@
+marytts.tools.analysis
+marytts.tools.dbselection
+marytts.tools.newlanguage
+marytts.tools.newlanguage.en_US
+marytts.tools.upgrade
+marytts.tools.voiceimport
+marytts.tools.voiceimport.traintrees
+marytts.tools.voiceimport.vocalizations
+marytts.util.data.text
+marytts.vocalizations
+weka.classifiers.trees.j48
