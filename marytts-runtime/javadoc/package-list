@@ -6,7 +6,6 @@ marytts.config
 marytts.datatypes
 marytts.features
 marytts.htsengine
-marytts.language.en
 marytts.machinelearning
 marytts.modules
 marytts.modules.acoustic

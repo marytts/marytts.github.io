@@ -25,7 +25,6 @@ marytts.language.de.postlex
 marytts.language.de.preprocess
 marytts.language.en
 marytts.language.en.prosody
-marytts.language.en_US
 marytts.language.en_US.datatypes
 marytts.language.fr
 marytts.language.it
