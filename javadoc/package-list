@@ -1,10 +1,3 @@
-Jama
-Jama.examples
-Jama.test
-Jama.util
-Jampack
-com.twmacinta.io
-com.twmacinta.util
 marytts
 marytts.cart
 marytts.cart.impose
@@ -29,6 +22,7 @@ marytts.language.en_US.datatypes
 marytts.language.fr
 marytts.language.it
 marytts.language.it.preprocess
+marytts.language.lb
 marytts.language.ru
 marytts.language.sv
 marytts.language.te
